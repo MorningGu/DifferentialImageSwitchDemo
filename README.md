@@ -1,0 +1,2 @@
+# DifferentialImageSwitchDemo
+模仿小米锁屏时的图片切换效果
